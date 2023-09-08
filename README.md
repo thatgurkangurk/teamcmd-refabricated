@@ -1,4 +1,4 @@
-# TeamCommand
+# TeamCommand Refabricated
 
 This mod adds a new command to Minecraft which allows players to create and manage their own teams. The command is
 similar to factions which you might know from other mods but is based on the Vanilla `/team` command which only
